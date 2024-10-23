@@ -20,7 +20,6 @@ nbextensions/
 *.bak
 
 # Ignore data and temporary files
-*.csv
 *.tsv
 *.dat
 *.log
