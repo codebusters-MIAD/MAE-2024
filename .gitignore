@@ -1,0 +1,51 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook metadata
+*.ipynb-meta
+
+# Ignore compiled or temporary R files
+*.Rhistory
+*.RData
+*.Rproj.user
+*.Rproj
+.Rhistory
+.Ruserdata
+
+# Ignore Jupyter Notebook extensions and metadata
+custom.js
+custom.css
+nbconfig/
+nbextensions/
+*.bak
+
+# Ignore data and temporary files
+*.csv
+*.tsv
+*.dat
+*.log
+*.tmp
+*.cache
+*.out
+*.pdf
+*.xlsx
+*.xls
+*.sqlite
+*.h5
+*.sav
+
+# Ignore config files and secrets (adjust as needed)
+*.env
+config.yaml
+config.json
+
+# Ignore virtual environments
+/venv/
+/env/
+/.Renviron
+
+# Ignore Conda environment files (optional)
+/R/
+
+# IntelliJ
+.idea
